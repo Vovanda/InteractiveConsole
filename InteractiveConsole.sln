@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveConsole", "InteractiveConsole\InteractiveConsole.csproj", "{03B1F9E3-888B-4415-87ED-CFC589592F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{12B45281-4B88-4ADF-B804-FDC8F0AFE850}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{E594F5BA-ED38-4FDB-8379-3A5CD7586A47}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\InterativeConsole.gif = ..\..\..\Desktop\InterativeConsole.gif
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B1F9E3-888B-4415-87ED-CFC589592F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B1F9E3-888B-4415-87ED-CFC589592F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B1F9E3-888B-4415-87ED-CFC589592F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B1F9E3-888B-4415-87ED-CFC589592F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B45281-4B88-4ADF-B804-FDC8F0AFE850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B45281-4B88-4ADF-B804-FDC8F0AFE850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B45281-4B88-4ADF-B804-FDC8F0AFE850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B45281-4B88-4ADF-B804-FDC8F0AFE850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FDAB2AF-6032-4B6E-948E-76F2F8E24BCD}
+	EndGlobalSection
+EndGlobal
